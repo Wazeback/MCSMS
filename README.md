@@ -54,7 +54,7 @@ A: To configure GitHub for use with MCSMS, follow these steps:
    5. The next time you run MCSMS, it will automatically sync with the GitHub repository.
 
 **Q: How can I contribute to MCSMS development?**
-A: If you're interested in contributing to MCSMS, feel free to fork the repository, make your changes, and submit a pull request. We appreciate any contributions and feedback from the community.
+A: If you're interested in contributing to MCSMS, feel free to fork the repository, make your changes, and submit a pull request. I appreciate any contributions and feedback from the community.
 
 ## License
 
@@ -64,4 +64,4 @@ MCSMS is licensed under
 
 ---
 
-Thank you for using MCSMS! If you have any further questions or encounter any issues, please don't hesitate to [open an issue](https://github.com/your-username/your-repository/issues) on the GitHub repository. We hope you enjoy using MCSMS and have a great Minecraft server experience!
+Thank you for using MCSMS! If you have any further questions or encounter any issues, please don't hesitate to [open an issue](https://github.com/Wazeback/MCSMS/issues) on the GitHub repository. I hope you enjoy using MCSMS and have a great Minecraft server experience!
