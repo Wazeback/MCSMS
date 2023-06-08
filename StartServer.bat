@@ -4,6 +4,7 @@ set REPO_URL=https://github.com/Wazeback/MCSMS.git
 set "SERVER_DIR=%~dp0"
 
 :start_server
+    git-portable\bin\git.exe config --global --add safe.directory "%SERVER_DIR%"
     git-portable\bin\git.exe pull origin master
     if exist "%SERVER_DIR%\server.lock" (
         echo Another instance is already running. Exiting.
