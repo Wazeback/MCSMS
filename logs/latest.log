@@ -1,38 +1,39 @@
-[22:44:45] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:44:49] [ServerMain/INFO]: Loaded 7 recipes
-[22:44:49] [ServerMain/INFO]: Loaded 1271 advancements
-[22:44:50] [Server thread/INFO]: Starting minecraft server version 1.20
-[22:44:50] [Server thread/INFO]: Loading properties
-[22:44:50] [Server thread/INFO]: Default game type: SURVIVAL
-[22:44:50] [Server thread/INFO]: Generating keypair
-[22:44:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:44:50] [Server thread/INFO]: Using default channel type
-[22:44:50] [Server thread/INFO]: Preparing level "world"
-[22:44:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:44:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:44:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:44:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:44:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:44:57] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[22:44:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:44:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:44:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:44:57] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[22:44:57] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:44:58] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[22:44:58] [Worker-Main-2/INFO]: Preparing spawn area: 20%
-[22:44:59] [Worker-Main-4/INFO]: Preparing spawn area: 59%
-[22:44:59] [Worker-Main-2/INFO]: Preparing spawn area: 93%
-[22:44:59] [Server thread/INFO]: Time elapsed: 6591 ms
-[22:44:59] [Server thread/INFO]: Done (8.864s)! For help, type "help"
-[22:45:48] [Server thread/INFO]: Stopping the server
-[22:45:48] [Server thread/INFO]: Stopping server
-[22:45:48] [Server thread/INFO]: Saving players
-[22:45:48] [Server thread/INFO]: Saving worlds
-[22:45:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:59:44] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:59:47] [ServerMain/INFO]: Loaded 7 recipes
+[22:59:47] [ServerMain/INFO]: Loaded 1271 advancements
+[22:59:47] [Server thread/INFO]: Starting minecraft server version 1.20
+[22:59:47] [Server thread/INFO]: Loading properties
+[22:59:47] [Server thread/INFO]: Default game type: SURVIVAL
+[22:59:47] [Server thread/INFO]: Generating keypair
+[22:59:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:59:48] [Server thread/INFO]: Using default channel type
+[22:59:48] [Server thread/INFO]: Preparing level "world"
+[22:59:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:59:52] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:59:52] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:59:52] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:59:52] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[22:59:52] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:59:52] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:59:52] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[22:59:52] [Worker-Main-14/INFO]: Preparing spawn area: 45%
+[22:59:53] [Server thread/INFO]: Time elapsed: 3845 ms
+[22:59:53] [Server thread/INFO]: Done (4.836s)! For help, type "help"
+[23:06:47] [User Authenticator #1/INFO]: UUID of player Wazeback is b51b8f7b-a1c2-47df-84b1-4e3a1473f07e
+[23:06:47] [Server thread/INFO]: Wazeback[/127.0.0.1:52746] logged in with entity id 70 at (2.5, 70.0, -1.5)
+[23:06:47] [Server thread/INFO]: Wazeback joined the game
+[23:12:03] [Server thread/INFO]: Wazeback has made the advancement [Stone Age]
+[23:13:25] [Server thread/INFO]: Wazeback has made the advancement [Getting an Upgrade]
+[23:15:15] [Server thread/INFO]: Wazeback lost connection: Disconnected
+[23:15:15] [Server thread/INFO]: Wazeback left the game
+[23:15:22] [Server thread/INFO]: Stopping the server
+[23:15:22] [Server thread/INFO]: Stopping server
+[23:15:22] [Server thread/INFO]: Saving players
+[23:15:22] [Server thread/INFO]: Saving worlds
+[23:15:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:15:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:15:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:15:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:15:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:15:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:15:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
