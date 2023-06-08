@@ -15,7 +15,7 @@ set "SERVER_DIR=%~dp0"
     git-portable\bin\git.exe add .
     git-portable\bin\git.exe commit -m "Server Start"
     git push origin master
-    start "" run.bat
+    start "" /B run.bat
     echo Server has started up.
 exit /b
 
