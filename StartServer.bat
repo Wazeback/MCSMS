@@ -50,4 +50,4 @@ if /I "%command%"=="stop" (
     exit /b
 )
 goto wait_for_stop
-
+pause
