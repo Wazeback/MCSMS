@@ -15,8 +15,8 @@ set "SERVER_DIR=%~dp0"
     git-portable\bin\git.exe add .
     git-portable\bin\git.exe commit -m "Server Start"
     git push origin master
-    java-portable\jdk-20.0.1\bin\java.exe -Xmx1024M -Xms1024M -jar "server.jar"
     echo Server wil start up.
+    java-portable\jdk-20.0.1\bin\java.exe -Xmx1024M -Xms1024M -jar "server.jar" nogui
     git-portable\bin\git.exe pull origin master
     if exist "%SERVER_DIR%\server.lock" (
         echo stop > "%SERVER_DIR%\stop.txt"
