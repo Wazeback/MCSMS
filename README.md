@@ -8,14 +8,20 @@ MCSMS (Minecraft Sync My Server) is a program that allows you to create a localh
 - Built-in Java and Git, eliminating the need for additional installations
 - Ability to create and manage a personal Minecraft server
 
+
+# NOTICE
+**This code does not yet have a auto config .env file yet so you have to have git working**
 ## Prerequisites
 
-Before running the MCSMS program, make sure you have the following prerequisites in place:
+Before running the MCSMS program, make sure you have the following prerequisites in place 
+
+
+
 
 1. **GitHub Account**: Ensure that you have a GitHub account set up and ready to use with Git. If you don't have an account, you can create one at [GitHub](https://github.com).
 
-2. **Java Unzipping**: Unzip the `java-portable\jdk-20.0.1\lib\modules.zip` file. This can be done by following these steps:
-    - Locate the `java-portable` directory in the MCSMS program files.
+2. **Java Unzipping**: Unzip the `backend\java-portable\jdk-20.0.1\lib\modules.zip` file. This can be done by following these steps:
+    - Locate the `backend\java-portable` directory in the MCSMS program files.
     - Inside the `java-portable` directory, find the `jdk-20.0.1` directory.
     - Within the `jdk-20.0.1` directory, you will find the `lib` folder. Inside the `lib` folder, locate the `modules.zip` file.
     - Extract the contents of the `modules.zip` file into the same `lib` folder, replacing the `modules.zip` file.
@@ -30,7 +36,7 @@ Follow these steps to set up and run MCSMS:
 
 2. Navigate to the downloaded MCSMS directory.
 
-3. Unzip the `java-portable\jdk-20.0.1\lib\modules.zip` file as explained in the prerequisites section.
+3. Unzip the `backend\java-portable\jdk-20.0.1\lib\modules.zip` file as explained in the prerequisites section.
 
 4. Accept the Minecraft End User License Agreement (EULA) by following the instructions in the `eula.txt` file.
 
